@@ -1,5 +1,5 @@
 Template fullstack
 
-Client : React Vite Typescripte
+Client : React Vite TypeScript
 
 Server : NodeJS Express
