@@ -2,7 +2,7 @@
   "name": "server",
   "version": "1.0.0",
   "description": "express-server",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "dev": "nodemon --watch src -e js,ts,json --exec \"ts-node src/index.ts\"",
     "build": "tsup src/index.ts --format cjs --clean",
